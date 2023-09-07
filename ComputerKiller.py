@@ -33,7 +33,7 @@ def guess_number():
 
 root = tk.Tk()
 root.title("Number Guessing Game")
-root.iconbitmap(r"C:\Users\johnl\PycharmProjects\My Project\number.ico")
+root.iconbitmap(r"")
 
 # Create a style for colored text
 style = ttk.Style()
